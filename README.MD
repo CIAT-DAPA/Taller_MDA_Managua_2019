@@ -1,4 +1,4 @@
-# TALLER - FUNDAMENTOS EN ANÁLISIS DE INFORMACIÓN Y MINERÍA DE DATOS EN AGRICULTURA ESPECÍFICA POR SITIO
+# Taller - Fundamentos en Análisis de Información Y Minería de Datos en Agricultura Específica Por Sitio
 
 Por Hugo Andres Dorado y Juan Camilo Rivera.
 
